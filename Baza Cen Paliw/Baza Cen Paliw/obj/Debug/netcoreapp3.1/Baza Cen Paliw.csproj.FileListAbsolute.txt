@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\Baza Cen Paliw\Baza Cen Paliw\Baza Cen Paliw\bin\Debug\netcoreapp3.1\Baza Cen Paliw.exe
+C:\Users\Student\Desktop\Baza Cen Paliw\Baza Cen Paliw\Baza Cen Paliw\bin\Debug\netcoreapp3.1\Baza Cen Paliw.deps.json
+C:\Users\Student\Desktop\Baza Cen Paliw\Baza Cen Paliw\Baza Cen Paliw\bin\Debug\netcoreapp3.1\Baza Cen Paliw.runtimeconfig.json
+C:\Users\Student\Desktop\Baza Cen Paliw\Baza Cen Paliw\Baza Cen Paliw\bin\Debug\netcoreapp3.1\Baza Cen Paliw.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Baza Cen Paliw\Baza Cen Paliw\Baza Cen Paliw\bin\Debug\netcoreapp3.1\Baza Cen Paliw.dll
+C:\Users\Student\Desktop\Baza Cen Paliw\Baza Cen Paliw\Baza Cen Paliw\bin\Debug\netcoreapp3.1\Baza Cen Paliw.pdb
+C:\Users\Student\Desktop\Baza Cen Paliw\Baza Cen Paliw\Baza Cen Paliw\obj\Debug\netcoreapp3.1\Baza Cen Paliw.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Baza Cen Paliw\Baza Cen Paliw\Baza Cen Paliw\obj\Debug\netcoreapp3.1\Baza Cen Paliw.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Baza Cen Paliw\Baza Cen Paliw\Baza Cen Paliw\obj\Debug\netcoreapp3.1\Baza Cen Paliw.AssemblyInfo.cs
+C:\Users\Student\Desktop\Baza Cen Paliw\Baza Cen Paliw\Baza Cen Paliw\obj\Debug\netcoreapp3.1\Baza Cen Paliw.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Baza Cen Paliw\Baza Cen Paliw\Baza Cen Paliw\obj\Debug\netcoreapp3.1\Baza Cen Paliw.dll
+C:\Users\Student\Desktop\Baza Cen Paliw\Baza Cen Paliw\Baza Cen Paliw\obj\Debug\netcoreapp3.1\Baza Cen Paliw.pdb
+C:\Users\Student\Desktop\Baza Cen Paliw\Baza Cen Paliw\Baza Cen Paliw\obj\Debug\netcoreapp3.1\Baza Cen Paliw.genruntimeconfig.cache
